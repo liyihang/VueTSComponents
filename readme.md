@@ -1,2 +1,4 @@
 # VueTSComponents
-造轮子，造轮子 reinventing the wheel with Vue and Typescript
+造轮子，造轮子,造轮子
+zaolunzi
+reinventing the wheel with Vue and Typescript
